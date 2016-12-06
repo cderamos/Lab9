@@ -1,3 +1,2 @@
-# Lab9
-Ordered Lists
-ITI1121
+# Lab 9
+A practice lab on ordered lists
